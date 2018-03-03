@@ -1,0 +1,113 @@
+html, body{
+	background-color: #faffff;
+	padding: 50px 15px;
+	font-family: 'Merriweather Sans', sans-serif;
+}
+
+h1 {
+	color: #3d0066;
+}
+
+h1, h2, h3, nav{
+	font-family: 'News Cycle', sans-serif;
+}
+
+.class {
+	background-color: #A0A0A0;
+	height: 200px;
+	padding: 10px;
+}
+
+.box-content {
+	position: absolute;
+	bottom: 0;
+}
+
+.programming {
+	background-image: url("images/hanoiBackground.PNG");
+	background-size: cover;
+}
+
+a {
+	color: #c2d2ea;
+}
+
+a:hover {
+	color: white;
+}
+
+section {
+	padding: 10px;
+	margin: 10px;
+	overflow: hidden;
+}
+
+.unit {
+	background-color: #e6eeff;
+}
+
+#resources {
+	background-color: #f7c8d4;
+	color: #2c224c;
+}
+
+#resources a {
+	color: #ffe3c4;
+}
+
+.project {
+	background-color: #ccccff;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+.project>h2 {
+	color: #002933;
+	float: left;
+}
+
+.project>h3 {
+	color: #002933;
+	float: right;
+}
+
+.clear {
+	clear:both;
+}
+
+.lab{
+	background-color: #b8efca;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+.reading{
+	background-color: #c49bae;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+section a {
+	color: #02047f;
+}
+
+.resourceFig {
+	width: 200px;
+	margin: 6px;
+}
+
+#about, #about .card {
+	background-color: #bde59e;
+}
+
+.examples {
+	background-color: #f9da89;
+	padding: 5px;
+	margin: 5px;
+	float: left;
+}
+
+
