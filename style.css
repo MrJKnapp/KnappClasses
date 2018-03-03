@@ -19,11 +19,12 @@ h1, h2, h3, nav{
 	background-color: #A0A0A0;
 	height: 200px;
 	padding: 10px;
+	margin: 5px;
 }
 
 .box-content {
 	position: absolute;
-	bottom: 0;
+	bottom: 0.1;
 }
 
 .programming {
